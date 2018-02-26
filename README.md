@@ -5,6 +5,8 @@
 ### 描述
 
 用 Vue 练手做的博客，博客栏目有：首页、技术文章、新闻头条、关于我。不懂设计，页面很 lower<br>
+[线上地址: http://aliblog.org/](http://aliblog.org/)<br>
+[github地址: https://github.com/web-L/Ali-Blog](https://github.com/web-L/Ali-Blog)
 ##### 栏目说明
 * 首页：显示最新的更新的文章
 * 技术文章：可以看到所有发表的文章 【】提供API服务
