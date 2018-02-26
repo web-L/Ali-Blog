@@ -9,8 +9,8 @@
 [github地址: https://github.com/web-L/Ali-Blog](https://github.com/web-L/Ali-Blog)
 ##### 栏目说明
 * 首页：显示最新的更新的文章
-* 技术文章：可以看到所有发表的文章 【】提供API服务
-* 新闻头条：所有数据是 来自 【UC头条】
+* 技术文章：可以看到所有发表的文章 【egg-Blog】提供API服务
+* 新闻头条：【UC头条】提供API服务
 * 关于我：关于博主的一些信息
 ### 技术栈
 vue、vue-router、vuex、sass、ES6、axios、vue、vue-cli
