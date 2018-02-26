@@ -8,7 +8,7 @@
 [线上地址: http://aliblog.org/](http://aliblog.org/)<br>
 [github地址: https://github.com/web-L/Ali-Blog](https://github.com/web-L/Ali-Blog)
 ##### 栏目说明
-* 首页：显示最新的更新的文章
+* 首页：显示最新的更新的文章、推荐文章、点击排行文章
 * 技术文章：可以看到所有发表的文章 【egg-Blog】提供API服务
 * 新闻头条：【UC头条】提供API服务
 * 关于我：关于博主的一些信息
