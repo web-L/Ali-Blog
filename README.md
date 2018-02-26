@@ -12,7 +12,7 @@
 * 关于我：关于博主的一些信息
 ### 技术栈
 vue、vue-router、vuex、sass、ES6、axios、vue、vue-cli
-##### 嗯，是的，这样就没。。。
+##### ennn... 是的，这样就没。。。
 ## Build Setup
 
 ``` bash
